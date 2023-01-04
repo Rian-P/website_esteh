@@ -7,7 +7,7 @@ This website has been integrated with Laravel as well as the functions of the we
 
 ## penggunaan dashboard
 
-1.enter url localhost/register/ to add user 
+1.enter url localhost/register/ to add user <br>
 2.can only enter the user who has been added to enter the login page
 
 ## team
